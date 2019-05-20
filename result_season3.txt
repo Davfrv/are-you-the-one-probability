@@ -1,0 +1,379 @@
+The boys are :
+	pos=0	Antoine
+	pos=1	Ariel
+	pos=2	Hugo
+	pos=3	Chine
+	pos=4	Enzo
+	pos=5	Kevin
+	pos=6	Seb
+	pos=7	Steevy
+	pos=8	Stephane
+	pos=9	Ted
+	pos=10	Thomas
+
+The girls are :
+	elt=0	Camille
+	elt=1	Chani
+	elt=2	Charlene
+	elt=3	Lena
+	elt=4	Emma
+	elt=5	Ines
+	elt=6	Julie
+	elt=7	Lorine
+	elt=8	Marine
+	elt=9	Mina
+
+Init
+
+Number of possible arrangements : 199584000 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	10.0%  	10.0%	10.0%	10.0%	10.0%	10.0%	10.0%	10.0% 	10.0%   	10.0%	10.0%
+elt=1	Chani   	10.0%  	10.0%	10.0%	10.0%	10.0%	10.0%	10.0%	10.0% 	10.0%   	10.0%	10.0%
+elt=2	Charlene	10.0%  	10.0%	10.0%	10.0%	10.0%	10.0%	10.0%	10.0% 	10.0%   	10.0%	10.0%
+elt=3	Lena    	10.0%  	10.0%	10.0%	10.0%	10.0%	10.0%	10.0%	10.0% 	10.0%   	10.0%	10.0%
+elt=4	Emma    	10.0%  	10.0%	10.0%	10.0%	10.0%	10.0%	10.0%	10.0% 	10.0%   	10.0%	10.0%
+elt=5	Ines    	10.0%  	10.0%	10.0%	10.0%	10.0%	10.0%	10.0%	10.0% 	10.0%   	10.0%	10.0%
+elt=6	Julie   	10.0%  	10.0%	10.0%	10.0%	10.0%	10.0%	10.0%	10.0% 	10.0%   	10.0%	10.0%
+elt=7	Lorine  	10.0%  	10.0%	10.0%	10.0%	10.0%	10.0%	10.0%	10.0% 	10.0%   	10.0%	10.0%
+elt=8	Marine  	10.0%  	10.0%	10.0%	10.0%	10.0%	10.0%	10.0%	10.0% 	10.0%   	10.0%	10.0%
+elt=9	Mina    	10.0%  	10.0%	10.0%	10.0%	10.0%	10.0%	10.0%	10.0% 	10.0%   	10.0%	10.0%
+
+Week  1
+
+Lena is not in couple with Hugo
+Number of possible arrangements : 179625600 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	9.9%   	9.9% 	11.1%	9.9% 	9.9% 	9.9% 	9.9% 	9.9%  	9.9%    	9.9% 	9.9%
+elt=1	Chani   	9.9%   	9.9% 	11.1%	9.9% 	9.9% 	9.9% 	9.9% 	9.9%  	9.9%    	9.9% 	9.9%
+elt=2	Charlene	9.9%   	9.9% 	11.1%	9.9% 	9.9% 	9.9% 	9.9% 	9.9%  	9.9%    	9.9% 	9.9%
+elt=3	Lena    	10.9%  	10.9%	0%   	10.9%	10.9%	10.9%	10.9%	10.9% 	10.9%   	10.9%	10.9%
+elt=4	Emma    	9.9%   	9.9% 	11.1%	9.9% 	9.9% 	9.9% 	9.9% 	9.9%  	9.9%    	9.9% 	9.9%
+elt=5	Ines    	9.9%   	9.9% 	11.1%	9.9% 	9.9% 	9.9% 	9.9% 	9.9%  	9.9%    	9.9% 	9.9%
+elt=6	Julie   	9.9%   	9.9% 	11.1%	9.9% 	9.9% 	9.9% 	9.9% 	9.9%  	9.9%    	9.9% 	9.9%
+elt=7	Lorine  	9.9%   	9.9% 	11.1%	9.9% 	9.9% 	9.9% 	9.9% 	9.9%  	9.9%    	9.9% 	9.9%
+elt=8	Marine  	9.9%   	9.9% 	11.1%	9.9% 	9.9% 	9.9% 	9.9% 	9.9%  	9.9%    	9.9% 	9.9%
+elt=9	Mina    	9.9%   	9.9% 	11.1%	9.9% 	9.9% 	9.9% 	9.9% 	9.9%  	9.9%    	9.9% 	9.9%
+
+Lorine is not in couple with Steevy
+Number of possible arrangements : 161844480 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	9.8%   	9.8% 	11.0%	9.8% 	9.8% 	9.8% 	9.8% 	11.0% 	9.8%    	9.8% 	9.8%
+elt=1	Chani   	9.8%   	9.8% 	11.0%	9.8% 	9.8% 	9.8% 	9.8% 	11.0% 	9.8%    	9.8% 	9.8%
+elt=2	Charlene	9.8%   	9.8% 	11.0%	9.8% 	9.8% 	9.8% 	9.8% 	11.0% 	9.8%    	9.8% 	9.8%
+elt=3	Lena    	10.8%  	10.8%	0%   	10.8%	10.8%	10.8%	10.8%	12.1% 	10.8%   	10.8%	10.8%
+elt=4	Emma    	9.8%   	9.8% 	11.0%	9.8% 	9.8% 	9.8% 	9.8% 	11.0% 	9.8%    	9.8% 	9.8%
+elt=5	Ines    	9.8%   	9.8% 	11.0%	9.8% 	9.8% 	9.8% 	9.8% 	11.0% 	9.8%    	9.8% 	9.8%
+elt=6	Julie   	9.8%   	9.8% 	11.0%	9.8% 	9.8% 	9.8% 	9.8% 	11.0% 	9.8%    	9.8% 	9.8%
+elt=7	Lorine  	10.8%  	10.8%	12.1%	10.8%	10.8%	10.8%	10.8%	0%    	10.8%   	10.8%	10.8%
+elt=8	Marine  	9.8%   	9.8% 	11.0%	9.8% 	9.8% 	9.8% 	9.8% 	11.0% 	9.8%    	9.8% 	9.8%
+elt=9	Mina    	9.8%   	9.8% 	11.0%	9.8% 	9.8% 	9.8% 	9.8% 	11.0% 	9.8%    	9.8% 	9.8%
+
+A new ceremony :
+(pos=0,elt=6) Antoine with Julie
+(pos=1,elt=5) Ariel with Ines
+(pos=2,elt=4) Hugo with Emma
+(pos=3,elt=3) Chine with Lena
+(pos=4,elt=8) Enzo with Marine
+(pos=5,elt=9) Kevin with Mina
+(pos=6,elt=7) Seb with Lorine
+(pos=7) Steevy stays alone
+(pos=8,elt=0) Stephane with Camille
+(pos=9,elt=2) Ted with Charlene
+(pos=10,elt=1) Thomas with Chani
+We have 1 matches
+Number of possible arrangements : 60080657 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	9.8%   	9.8% 	11.0%	9.8% 	9.8% 	9.8% 	9.8% 	11.0% 	9.7%    	9.8% 	9.8%
+elt=1	Chani   	9.8%   	9.8% 	11.0%	9.8% 	9.8% 	9.8% 	9.8% 	11.0% 	9.8%    	9.8% 	9.7%
+elt=2	Charlene	9.8%   	9.8% 	11.0%	9.8% 	9.8% 	9.8% 	9.8% 	11.0% 	9.8%    	9.7% 	9.8%
+elt=3	Lena    	10.8%  	10.8%	0%   	10.8%	10.8%	10.8%	10.8%	12.1% 	10.8%   	10.8%	10.8%
+elt=4	Emma    	9.8%   	9.8% 	11.0%	9.8% 	9.8% 	9.8% 	9.8% 	11.0% 	9.8%    	9.8% 	9.8%
+elt=5	Ines    	9.8%   	9.7% 	11.0%	9.8% 	9.8% 	9.8% 	9.8% 	11.0% 	9.8%    	9.8% 	9.8%
+elt=6	Julie   	9.7%   	9.8% 	11.0%	9.8% 	9.8% 	9.8% 	9.8% 	11.0% 	9.8%    	9.8% 	9.8%
+elt=7	Lorine  	10.8%  	10.8%	12.1%	10.8%	10.8%	10.8%	10.6%	0%    	10.8%   	10.8%	10.8%
+elt=8	Marine  	9.8%   	9.8% 	11.0%	9.8% 	9.7% 	9.8% 	9.8% 	11.0% 	9.8%    	9.8% 	9.8%
+elt=9	Mina    	9.8%   	9.8% 	11.0%	9.8% 	9.8% 	9.7% 	9.8% 	11.0% 	9.8%    	9.8% 	9.8%
+
+Week  2
+
+Chani is not in couple with Thomas
+Number of possible arrangements : 54276888 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	9.6%   	9.6% 	10.7%	9.6% 	9.6% 	9.6% 	9.6% 	10.9% 	10.7%   	9.6% 	10.9%
+elt=1	Chani   	10.7%  	10.7%	11.9%	10.6%	10.7%	10.7%	10.7%	11.9% 	10.7%   	10.7%	0%
+elt=2	Charlene	9.6%   	9.6% 	10.7%	9.6% 	9.6% 	9.6% 	9.6% 	10.9% 	9.6%    	10.7%	10.9%
+elt=3	Lena    	10.5%  	10.5%	0%   	11.9%	10.5%	10.5%	10.5%	11.9% 	10.5%   	10.5%	11.9%
+elt=4	Emma    	9.6%   	9.6% 	12.2%	9.5% 	9.6% 	9.6% 	9.5% 	10.9% 	9.6%    	9.6% 	10.9%
+elt=5	Ines    	9.6%   	10.7%	10.7%	9.6% 	9.6% 	9.6% 	9.6% 	10.9% 	9.6%    	9.6% 	10.9%
+elt=6	Julie   	10.7%  	9.6% 	10.7%	9.6% 	9.6% 	9.6% 	9.6% 	10.9% 	9.6%    	9.6% 	10.9%
+elt=7	Lorine  	10.6%  	10.6%	11.8%	10.5%	10.6%	10.6%	11.8%	0%    	10.6%   	10.6%	12.0%
+elt=8	Marine  	9.6%   	9.6% 	10.7%	9.6% 	10.7%	9.6% 	9.6% 	10.9% 	9.6%    	9.6% 	10.9%
+elt=9	Mina    	9.6%   	9.6% 	10.7%	9.6% 	9.6% 	10.7%	9.6% 	10.9% 	9.6%    	9.6% 	10.9%
+
+A new ceremony :
+(pos=0,elt=4) Antoine with Emma
+(pos=1,elt=3) Ariel with Lena
+(pos=2,elt=9) Hugo with Mina
+(pos=3) Chine stays alone
+(pos=4,elt=8) Enzo with Marine
+(pos=5,elt=0) Kevin with Camille
+(pos=6,elt=5) Seb with Ines
+(pos=7,elt=6) Steevy with Julie
+(pos=8,elt=2) Stephane with Charlene
+(pos=9,elt=1) Ted with Chani
+(pos=10,elt=7) Thomas with Lorine
+We have 1 matches
+Number of possible arrangements : 20028098 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	9.6%   	9.6% 	10.7%	9.5% 	9.8% 	9.2% 	9.6% 	10.9% 	10.9%   	9.6% 	10.9%
+elt=1	Chani   	10.7%  	10.7%	11.9%	10.6%	10.8%	10.7%	10.7%	12.0% 	10.7%   	10.5%	0%
+elt=2	Charlene	9.6%   	9.6% 	10.7%	9.5% 	9.8% 	9.6% 	9.6% 	10.9% 	9.3%    	10.9%	10.9%
+elt=3	Lena    	10.5%  	10.2%	0%   	12.1%	10.7%	10.5%	10.5%	11.9% 	10.5%   	10.5%	11.9%
+elt=4	Emma    	9.2%   	9.6% 	12.3%	9.5% 	9.7% 	9.6% 	9.6% 	10.9% 	9.6%    	9.6% 	10.9%
+elt=5	Ines    	9.6%   	10.9%	10.7%	9.5% 	9.7% 	9.6% 	9.2% 	10.9% 	9.6%    	9.6% 	10.9%
+elt=6	Julie   	10.9%  	9.6% 	10.7%	9.5% 	9.8% 	9.6% 	9.6% 	10.7% 	9.6%    	9.6% 	10.9%
+elt=7	Lorine  	10.5%  	10.5%	11.7%	10.5%	10.7%	10.5%	11.9%	0%    	10.5%   	10.5%	11.9%
+elt=8	Marine  	9.7%   	9.7% 	10.8%	9.7% 	9.3% 	9.7% 	9.7% 	11.0% 	9.7%    	9.7% 	11.0%
+elt=9	Mina    	9.6%   	9.6% 	10.4%	9.5% 	9.7% 	10.8%	9.6% 	10.9% 	9.6%    	9.6% 	10.9%
+
+Week  3
+
+Emma is in couple with Kevin
+Number of possible arrangements : 1919719 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	10.0%  	10.1%	11.7%	9.9% 	10.2%	0%   	10.1%	11.8% 	13.7%   	10.0%	11.8%
+elt=1	Chani   	11.6%  	11.5%	13.2%	11.6%	11.6%	0%   	11.6%	13.2% 	11.5%   	12.4%	0%
+elt=2	Charlene	10.1%  	10.1%	11.7%	10.0%	10.1%	0%   	10.1%	11.7% 	10.5%   	13.4%	11.7%
+elt=3	Lena    	11.1%  	11.7%	0%   	15.3%	11.2%	0%   	11.1%	13.0% 	11.1%   	11.0%	13.0%
+elt=4	Emma    	1.8%   	1.7% 	2.5% 	1.7% 	1.7% 	100% 	1.7% 	2.0%  	1.7%    	1.7% 	2.0%
+elt=5	Ines    	10.1%  	13.3%	11.7%	10.0%	10.1%	0%   	10.2%	11.8% 	10.1%   	10.1%	11.8%
+elt=6	Julie   	13.6%  	10.0%	11.6%	10.0%	10.1%	0%   	10.0%	12.8% 	10.0%   	9.9% 	11.7%
+elt=7	Lorine  	11.1%  	11.1%	12.8%	11.1%	11.1%	0%   	14.8%	0%    	11.1%   	11.0%	14.4%
+elt=8	Marine  	10.2%  	10.1%	11.8%	10.1%	13.3%	0%   	10.1%	11.8% 	10.1%   	10.1%	11.8%
+elt=9	Mina    	10.4%  	10.4%	12.9%	10.4%	10.5%	0%   	10.4%	11.8% 	10.3%   	10.3%	11.8%
+
+Emma is in couple with Ted
+Number of possible arrangements : 32636 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	9.7%   	9.8% 	11.7%	9.5% 	9.8% 	0%   	9.8% 	11.7% 	16.1%   	0%   	11.9%
+elt=1	Chani   	12.0%  	12.0%	14.0%	11.9%	12.1%	0%   	12.1%	14.0% 	11.9%   	0%   	0%
+elt=2	Charlene	10.4%  	10.3%	11.9%	10.3%	10.2%	0%   	10.4%	11.9% 	12.6%   	0%   	11.9%
+elt=3	Lena    	10.9%  	12.7%	0%   	18.2%	10.5%	0%   	11.2%	12.9% 	10.4%   	0%   	13.2%
+elt=4	Emma    	0%     	0%   	0%   	0%   	0%   	100% 	0%   	0%    	0%      	100% 	0%
+elt=5	Ines    	10.0%  	14.8%	11.8%	9.8% 	9.6% 	0%   	10.3%	11.9% 	9.9%    	0%   	12.0%
+elt=6	Julie   	16.0%  	9.6% 	11.1%	9.4% 	9.3% 	0%   	9.6% 	14.6% 	9.2%    	0%   	11.3%
+elt=7	Lorine  	10.9%  	11.2%	12.8%	10.9%	10.4%	0%   	16.9%	0%    	10.5%   	0%   	16.4%
+elt=8	Marine  	9.8%   	9.4% 	11.5%	9.6% 	18.1%	0%   	9.4% 	11.4% 	9.4%    	0%   	11.5%
+elt=9	Mina    	10.3%  	10.2%	15.3%	10.3%	10.1%	0%   	10.3%	11.7% 	10.0%   	0%   	11.8%
+
+A new ceremony :
+(pos=0,elt=6) Antoine with Julie
+(pos=1,elt=3) Ariel with Lena
+(pos=2,elt=5) Hugo with Ines
+(pos=3,elt=1) Chine with Chani
+(pos=4,elt=8) Enzo with Marine
+(pos=5,elt=4) Kevin with Emma
+(pos=6,elt=9) Seb with Mina
+(pos=7,elt=2) Steevy with Charlene
+(pos=8,elt=0) Stephane with Camille
+(pos=9,elt=4) Ted with Emma
+(pos=10,elt=7) Thomas with Lorine
+We have 3 matches
+Number of possible arrangements : 12858 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	10.0%  	9.8% 	12.4%	10.2%	9.2% 	0%   	9.9% 	12.2% 	14.8%   	0%   	11.7%
+elt=1	Chani   	12.5%  	13.2%	15.0%	6.8% 	11.7%	0%   	12.4%	15.6% 	12.8%   	0%   	0%
+elt=2	Charlene	11.1%  	11.3%	14.4%	12.6%	9.9% 	0%   	11.5%	6.0%  	10.7%   	0%   	12.5%
+elt=3	Lena    	11.0%  	8.5% 	0%   	15.7%	9.9% 	0%   	13.1%	15.7% 	10.9%   	0%   	15.2%
+elt=4	Emma    	0%     	0%   	0%   	0%   	0%   	100% 	0%   	0%    	0%      	100% 	0%
+elt=5	Ines    	10.5%  	14.1%	5.7% 	10.7%	8.1% 	0%   	13.7%	13.7% 	10.8%   	0%   	12.7%
+elt=6	Julie   	14.6%  	9.6% 	12.6%	10.6%	8.7% 	0%   	10.1%	12.6% 	10.0%   	0%   	11.2%
+elt=7	Lorine  	10.3%  	13.8%	13.6%	12.8%	9.1% 	0%   	16.5%	0%    	9.8%    	0%   	14.0%
+elt=8	Marine  	9.1%   	8.8% 	10.3%	9.3% 	24.4%	0%   	7.5% 	10.7% 	9.0%    	0%   	11.0%
+elt=9	Mina    	11.0%  	10.9%	16.0%	11.4%	9.0% 	0%   	5.2% 	13.6% 	11.2%   	0%   	11.7%
+
+Week  4
+
+Marine is not in couple with Chine
+Number of possible arrangements : 11666 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	10.0%  	10.0%	12.5%	11.2%	8.9% 	0%   	10.2%	12.0% 	13.6%   	0%   	11.5%
+elt=1	Chani   	12.3%  	13.3%	15.0%	7.5% 	11.4%	0%   	12.6%	15.2% 	12.6%   	0%   	0%
+elt=2	Charlene	11.0%  	11.3%	14.2%	13.9%	9.4% 	0%   	11.6%	5.9%  	10.6%   	0%   	12.1%
+elt=3	Lena    	10.9%  	8.0% 	0%   	17.3%	9.5% 	0%   	13.2%	15.4% 	10.8%   	0%   	14.9%
+elt=4	Emma    	0%     	0%   	0%   	0%   	0%   	100% 	0%   	0%    	0%      	100% 	0%
+elt=5	Ines    	10.9%  	13.2%	5.5% 	11.8%	8.0% 	0%   	12.8%	13.9% 	11.2%   	0%   	12.7%
+elt=6	Julie   	13.4%  	9.9% 	12.7%	11.7%	8.4% 	0%   	10.5%	12.4% 	10.0%   	0%   	11.0%
+elt=7	Lorine  	10.4%  	13.6%	13.5%	14.2%	8.8% 	0%   	15.6%	0%    	9.9%    	0%   	14.1%
+elt=8	Marine  	10.1%  	9.7% 	11.3%	0%   	26.9%	0%   	8.3% 	11.8% 	9.9%    	0%   	12.1%
+elt=9	Mina    	11.0%  	11.0%	15.2%	12.5%	8.8% 	0%   	5.2% 	13.4% 	11.2%   	0%   	11.7%
+
+A new ceremony :
+(pos=0,elt=5) Antoine with Ines
+(pos=1,elt=3) Ariel with Lena
+(pos=2,elt=2) Hugo with Charlene
+(pos=3,elt=0) Chine with Camille
+(pos=4,elt=1) Enzo with Chani
+(pos=5,elt=4) Kevin with Emma
+(pos=6,elt=6) Seb with Julie
+(pos=7,elt=9) Steevy with Mina
+(pos=8,elt=8) Stephane with Marine
+(pos=9,elt=4) Ted with Emma
+(pos=10,elt=7) Thomas with Lorine
+We have 4 matches
+Number of possible arrangements : 2072 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	10.1%  	9.4% 	12.6%	21.3%	8.9% 	0%   	8.8% 	12.0% 	6.3%    	0%   	10.5%
+elt=1	Chani   	11.7%  	10.9%	14.0%	3.2% 	21.0%	0%   	10.4%	14.1% 	14.7%   	0%   	0%
+elt=2	Charlene	11.2%  	10.1%	27.8%	12.9%	9.5% 	0%   	9.7% 	4.0%  	4.8%    	0%   	10.0%
+elt=3	Lena    	9.0%   	16.1%	0%   	20.8%	6.5% 	0%   	10.2%	12.4% 	11.4%   	0%   	13.6%
+elt=4	Emma    	0%     	0%   	0%   	0%   	0%   	100% 	0%   	0%    	0%      	100% 	0%
+elt=5	Ines    	20.8%  	17.0%	3.5% 	8.3% 	6.9% 	0%   	8.7% 	12.1% 	12.4%   	0%   	10.2%
+elt=6	Julie   	9.1%   	8.5% 	13.1%	11.5%	8.8% 	0%   	20.6%	7.5%  	12.1%   	0%   	8.9%
+elt=7	Lorine  	7.0%   	12.1%	8.7% 	10.9%	3.7% 	0%   	21.2%	0%    	7.4%    	0%   	28.9%
+elt=8	Marine  	9.9%   	6.9% 	11.7%	0%   	25.6%	0%   	7.1% 	12.1% 	17.8%   	0%   	8.8%
+elt=9	Mina    	11.0%  	9.0% 	8.5% 	11.1%	9.0% 	0%   	3.3% 	25.8% 	13.1%   	0%   	9.1%
+
+Week  5
+
+Marine is not in couple with Enzo
+Number of possible arrangements : 1541 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	10.8%  	7.1% 	13.4%	18.5%	12.0%	0%   	8.4% 	12.7% 	8.5%    	0%   	8.6%
+elt=1	Chani   	11.6%  	7.8% 	13.0%	4.3% 	28.2%	0%   	7.9% 	13.5% 	13.6%   	0%   	0%
+elt=2	Charlene	12.8%  	8.6% 	21.8%	13.2%	12.7%	0%   	10.0%	5.4%  	6.4%    	0%   	9.0%
+elt=3	Lena    	7.1%   	21.6%	0%   	28.0%	8.8% 	0%   	7.0% 	10.1% 	7.6%    	0%   	9.9%
+elt=4	Emma    	0%     	0%   	0%   	0%   	0%   	100% 	0%   	0%    	0%      	100% 	0%
+elt=5	Ines    	14.8%  	22.8%	4.7% 	6.0% 	9.3% 	0%   	11.7%	12.3% 	11.0%   	0%   	7.3%
+elt=6	Julie   	12.2%  	6.9% 	14.9%	11.9%	11.8%	0%   	12.5%	10.1% 	12.4%   	0%   	7.3%
+elt=7	Lorine  	4.7%   	8.2% 	5.0% 	6.8% 	5.0% 	0%   	28.5%	0%    	3.0%    	0%   	38.8%
+elt=8	Marine  	13.4%  	9.3% 	15.8%	0%   	0%   	0%   	9.6% 	16.2% 	23.9%   	0%   	11.8%
+elt=9	Mina    	12.5%  	7.6% 	11.4%	11.2%	12.1%	0%   	4.5% 	19.9% 	13.5%   	0%   	7.3%
+
+A new ceremony :
+(pos=0,elt=1) Antoine with Chani
+(pos=1,elt=3) Ariel with Lena
+(pos=2,elt=2) Hugo with Charlene
+(pos=3,elt=9) Chine with Mina
+(pos=4,elt=7) Enzo with Lorine
+(pos=5,elt=4) Kevin with Emma
+(pos=6,elt=6) Seb with Julie
+(pos=7,elt=5) Steevy with Ines
+(pos=8,elt=8) Stephane with Marine
+(pos=9,elt=4) Ted with Emma
+(pos=10,elt=0) Thomas with Camille
+We have 3 matches
+Number of possible arrangements : 559 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	12.0%  	7.5% 	15.0%	17.0%	12.5%	0%   	8.1% 	14.5% 	10.7%   	0%   	2.7%
+elt=1	Chani   	5.9%   	8.1% 	12.5%	4.3% 	33.5%	0%   	6.6% 	17.0% 	12.2%   	0%   	0%
+elt=2	Charlene	13.4%  	8.9% 	22.0%	16.1%	10.2%	0%   	8.2% 	5.7%  	5.2%    	0%   	10.2%
+elt=3	Lena    	6.1%   	19.5%	0%   	28.4%	10.0%	0%   	7.3% 	11.3% 	7.5%    	0%   	9.8%
+elt=4	Emma    	0%     	0%   	0%   	0%   	0%   	100% 	0%   	0%    	0%      	100% 	0%
+elt=5	Ines    	13.4%  	20.9%	4.8% 	7.5% 	11.4%	0%   	13.1%	5.0%  	14.5%   	0%   	9.3%
+elt=6	Julie   	13.4%  	6.6% 	11.6%	13.8%	7.9% 	0%   	17.5%	12.0% 	10.4%   	0%   	6.8%
+elt=7	Lorine  	6.4%   	10.6%	5.2% 	9.7% 	1.1% 	0%   	26.5%	0%    	3.2%    	0%   	37.4%
+elt=8	Marine  	12.0%  	9.3% 	15.9%	0%   	0%   	0%   	8.6% 	17.9% 	23.1%   	0%   	13.2%
+elt=9	Mina    	17.4%  	8.6% 	12.9%	3.2% 	13.4%	0%   	4.1% 	16.6% 	13.2%   	0%   	10.6%
+
+Week  6
+
+Marine is not in couple with Thomas
+Number of possible arrangements : 485 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	11.5%  	7.4% 	16.1%	16.5%	12.0%	0%   	9.3% 	14.8% 	9.3%    	0%   	3.1%
+elt=1	Chani   	6.6%   	7.4% 	12.4%	3.7% 	33.8%	0%   	7.4% 	17.1% 	11.5%   	0%   	0%
+elt=2	Charlene	13.6%  	9.3% 	19.8%	16.3%	10.3%	0%   	9.3% 	5.4%  	4.3%    	0%   	11.8%
+elt=3	Lena    	6.6%   	17.5%	0%   	30.5%	8.9% 	0%   	7.2% 	11.1% 	6.8%    	0%   	11.3%
+elt=4	Emma    	0%     	0%   	0%   	0%   	0%   	100% 	0%   	0%    	0%      	100% 	0%
+elt=5	Ines    	11.1%  	22.7%	4.7% 	6.6% 	12.4%	0%   	12.0%	5.2%  	14.6%   	0%   	10.7%
+elt=6	Julie   	12.8%  	7.2% 	11.3%	14.2%	8.0% 	0%   	16.7%	10.9% 	10.9%   	0%   	7.8%
+elt=7	Lorine  	5.2%   	9.5% 	5.2% 	8.7% 	1.0% 	0%   	24.7%	0%    	2.7%    	0%   	43.1%
+elt=8	Marine  	13.8%  	10.7%	18.4%	0%   	0%   	0%   	9.9% 	20.6% 	26.6%   	0%   	0%
+elt=9	Mina    	18.8%  	8.2% 	12.2%	3.5% 	13.6%	0%   	3.5% 	14.8% 	13.2%   	0%   	12.2%
+
+A new ceremony :
+(pos=0,elt=8) Antoine with Marine
+(pos=1,elt=3) Ariel with Lena
+(pos=2,elt=2) Hugo with Charlene
+(pos=3,elt=1) Chine with Chani
+(pos=4,elt=0) Enzo with Camille
+(pos=5,elt=4) Kevin with Emma
+(pos=6,elt=9) Seb with Mina
+(pos=7,elt=7) Steevy with Lorine
+(pos=8,elt=5) Stephane with Ines
+(pos=9,elt=4) Ted with Emma
+(pos=10,elt=6) Thomas with Julie
+We have 3 matches
+Number of possible arrangements : 172 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	14.0%  	9.3% 	18.6%	14.5%	8.7% 	0%   	5.8% 	15.1% 	11.0%   	0%   	2.9%
+elt=1	Chani   	7.0%   	7.6% 	12.2%	5.8% 	32.0%	0%   	5.8% 	14.5% 	15.1%   	0%   	0%
+elt=2	Charlene	12.2%  	8.7% 	27.9%	14.5%	12.2%	0%   	5.2% 	6.4%  	3.5%    	0%   	9.3%
+elt=3	Lena    	7.0%   	19.8%	0%   	32.0%	11.0%	0%   	3.5% 	6.4%  	6.4%    	0%   	14.0%
+elt=4	Emma    	0%     	0%   	0%   	0%   	0%   	100% 	0%   	0%    	0%      	100% 	0%
+elt=5	Ines    	14.0%  	21.5%	1.2% 	7.0% 	12.8%	0%   	13.4%	2.3%  	14.0%   	0%   	14.0%
+elt=6	Julie   	7.6%   	7.6% 	9.3% 	14.5%	7.0% 	0%   	19.2%	14.5% 	14.5%   	0%   	5.8%
+elt=7	Lorine  	5.8%   	7.6% 	4.1% 	10.5%	0%   	0%   	27.9%	0%    	3.5%    	0%   	40.7%
+elt=8	Marine  	10.5%  	11.0%	18.6%	0%   	0%   	0%   	11.6%	28.5% 	19.8%   	0%   	0%
+elt=9	Mina    	22.1%  	7.0% 	8.1% 	1.2% 	16.3%	0%   	7.6% 	12.2% 	12.2%   	0%   	13.4%
+
+Week  7
+
+Mina is not in couple with Seb
+Number of possible arrangements : 159 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	13.8%  	9.4% 	17.0%	14.5%	9.4% 	0%   	6.3% 	16.4% 	11.9%   	0%   	1.3%
+elt=1	Chani   	7.5%   	8.2% 	11.9%	6.3% 	27.7%	0%   	6.3% 	15.7% 	16.4%   	0%   	0%
+elt=2	Charlene	11.3%  	7.5% 	30.2%	14.5%	12.6%	0%   	5.7% 	6.9%  	2.5%    	0%   	8.8%
+elt=3	Lena    	6.9%   	21.4%	0%   	30.2%	11.3%	0%   	3.8% 	6.9%  	6.9%    	0%   	12.6%
+elt=4	Emma    	0%     	0%   	0%   	0%   	0%   	100% 	0%   	0%    	0%      	100% 	0%
+elt=5	Ines    	13.2%  	19.5%	1.3% 	7.5% 	13.8%	0%   	14.5%	2.5%  	15.1%   	0%   	12.6%
+elt=6	Julie   	8.2%   	7.5% 	9.4% 	15.7%	7.5% 	0%   	20.8%	8.8%  	15.7%   	0%   	6.3%
+elt=7	Lorine  	3.8%   	6.9% 	1.9% 	10.1%	0%   	0%   	30.2%	0%    	3.1%    	0%   	44.0%
+elt=8	Marine  	11.3%  	11.9%	19.5%	0%   	0%   	0%   	12.6%	29.6% 	15.1%   	0%   	0%
+elt=9	Mina    	23.9%  	7.5% 	8.8% 	1.3% 	17.6%	0%   	0%   	13.2% 	13.2%   	0%   	14.5%
+
+A new ceremony :
+(pos=0,elt=9) Antoine with Mina
+(pos=1,elt=1) Ariel with Chani
+(pos=2,elt=8) Hugo with Marine
+(pos=3,elt=3) Chine with Lena
+(pos=4,elt=6) Enzo with Julie
+(pos=5,elt=4) Kevin with Emma
+(pos=6,elt=5) Seb with Ines
+(pos=7,elt=0) Steevy with Camille
+(pos=8,elt=2) Stephane with Charlene
+(pos=9,elt=4) Ted with Emma
+(pos=10,elt=7) Thomas with Lorine
+We have 3 matches
+Number of possible arrangements : 49 / 199584000
+.    	.       	pos=0  	pos=1	pos=2	pos=3	pos=4	pos=5	pos=6	pos=7 	pos=8   	pos=9	pos=10
+.    	.       	Antoine	Ariel	Hugo 	Chine	Enzo 	Kevin	Seb  	Steevy	Stephane	Ted  	Thomas
+elt=0	Camille 	16.3%  	8.2% 	14.3%	26.5%	10.2%	0%   	2.0% 	4.1%  	16.3%   	0%   	2.0%
+elt=1	Chani   	4.1%   	8.2% 	12.2%	8.2% 	24.5%	0%   	4.1% 	16.3% 	22.4%   	0%   	0%
+elt=2	Charlene	6.1%   	2.0% 	42.9%	16.3%	8.2% 	0%   	2.0% 	6.1%  	4.1%    	0%   	12.2%
+elt=3	Lena    	10.2%  	24.5%	0%   	2.0% 	18.4%	0%   	4.1% 	10.2% 	10.2%   	0%   	20.4%
+elt=4	Emma    	0%     	0%   	0%   	0%   	0%   	100% 	0%   	0%    	0%      	100% 	0%
+elt=5	Ines    	16.3%  	26.5%	2.0% 	4.1% 	10.2%	0%   	24.5%	0%    	0%      	0%   	16.3%
+elt=6	Julie   	16.3%  	6.1% 	8.2% 	26.5%	6.1% 	0%   	10.2%	8.2%  	14.3%   	0%   	4.1%
+elt=7	Lorine  	4.1%   	10.2%	0%   	14.3%	0%   	0%   	38.8%	0%    	6.1%    	0%   	26.5%
+elt=8	Marine  	10.2%  	12.2%	8.2% 	0%   	0%   	0%   	14.3%	40.8% 	14.3%   	0%   	0%
+elt=9	Mina    	16.3%  	2.0% 	12.2%	2.0% 	22.4%	0%   	0%   	14.3% 	12.2%   	0%   	18.4%
+
