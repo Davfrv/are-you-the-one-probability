@@ -1,0 +1,59 @@
+Author : davfrv@gmail.com
+
+License : MIT License (see LICENSE file)
+
+-- Description of the game --
+
+"Are you the one", in France "10 couples parfaits",
+is a reality television series in wich 10 boys and 10 girls
+are trying to find how they are paired (called "Perfect Matches").
+
+During 10 weeks, they have 2 kind of events :
+1/ "Truth Booths" (in France, "Love Machine") where
+one boy and one girl can know if they are Perfect Match or not, and
+2/ "Ceremonies", where one combination of the 10 couples is tested,
+we know how many are Perfect Matches, but we don't know which ones.
+
+-- Computer Science interest --
+
+This game is similar to Mastermind, with one big restriction :
+the boys and girls decide themselves how to arrange the couples,
+the observer (meaning us) can only deduce the probabilities
+afterwards.
+
+The current project is to compute probabilities of Perfect Matches,
+based on the Truth Booths and the Ceremonies. As the number of
+combinations is few (less than one billion), we compute all possible
+combinations, and then count how many occurs for each possible couples.
+
+This project can be usefull to empirically validate a pure Mathematical
+approach, or to control a Bayesian algorithm.
+
+This project may also be usefull to see how to deal with permutations
+and arrangements in c language, and how to use a generator mechanism
+(the "yield" keyword in Python) in a pure c language program.
+
+-- Results --
+
+We focused on season 2 and Season 3 of the French version,
+where there is one more candidate : 11 girls with 10 boys for season 2,
+10 girls with 11 boys for season 3.
+
+This corresponds to an Arrangement of 10 elements into 11 positions,
+with one element in double.
+
+This results around 200 millions of combinations;
+1/ a Permutation of 11 elements => 1*2*3*4*5*6*7*8*9*10*11 combinations
+2/ the 11th element is replaced with each 10 possible elements => * 10
+3/ every arrangement is counted twice => / 2
+So after each event (Truth Booths or Ceremonies), we have
+1*2*3*4*5*6*7*8*9*10*11 * 10 / 2 = 199584000 combinations to review.
+
+The program is written in c language, it takes around 20 seconds for each events
+(in a single Personal Computer), and takes less than 10 minutes for all steps.
+
+-- Use --
+
+The project is a single program file called proba_eleven.c,
+you can compile it using any c compiler, for example gcc.
+
