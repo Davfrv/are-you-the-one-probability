@@ -1,0 +1,558 @@
+The girls are :
+	pos=0	Daisie
+	pos=1	Hilona
+	pos=2	Ines
+	pos=3	Jessica
+	pos=4	Anastassia
+	pos=5	Marilou
+	pos=6	Mia
+	pos=7	Noee
+	pos=8	Stella
+	pos=9	Celia
+	pos=10	Melanie
+
+The boys are :
+	elt=0	Nicolas
+	elt=1	Selim
+	elt=2	Tony
+	elt=3	Tom
+	elt=4	Max
+	elt=5	Jonathan
+	elt=6	Sergio
+	elt=7	Lorenzo
+	elt=8	Jeremy
+	elt=9	Illan
+
+Init
+
+Number of possible arrangements : 199584000 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=1	Selim   	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=2	Tony    	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=3	Tom     	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=4	Max     	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=5	Jonathan	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=6	Sergio  	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=7	Lorenzo 	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=8	Jeremy  	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=9	Illan   	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+
+The doublon
+
+We know who is the doublon : Melanie
+Number of possible arrangements : 36288000 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=1	Selim   	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=2	Tony    	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=3	Tom     	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=4	Max     	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=5	Jonathan	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=6	Sergio  	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=7	Lorenzo 	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=8	Jeremy  	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+elt=9	Illan   	10.0% 	10.0% 	10.0%	10.0%  	10.0%     	10.0%  	10.0%	10.0%	10.0% 	10.0%	10.0%
+
+Week  1
+
+Sergio is not in couple with Marilou
+Number of possible arrangements : 32659200 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	9.9%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.9% 	9.9%  	9.9% 	10.0%
+elt=1	Selim   	9.9%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.9% 	9.9%  	9.9% 	10.0%
+elt=2	Tony    	9.9%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.9% 	9.9%  	9.9% 	10.0%
+elt=3	Tom     	9.9%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.9% 	9.9%  	9.9% 	10.0%
+elt=4	Max     	9.9%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.9% 	9.9%  	9.9% 	10.0%
+elt=5	Jonathan	9.9%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.9% 	9.9%  	9.9% 	10.0%
+elt=6	Sergio  	11.1% 	11.1% 	11.1%	11.1%  	11.1%     	0%     	11.1%	11.1%	11.1% 	11.1%	10.0%
+elt=7	Lorenzo 	9.9%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.9% 	9.9%  	9.9% 	10.0%
+elt=8	Jeremy  	9.9%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.9% 	9.9%  	9.9% 	10.0%
+elt=9	Illan   	9.9%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.9% 	9.9%  	9.9% 	10.0%
+
+A new ceremony :
+(pos=0,elt=8) Daisie with Jeremy
+(pos=1,elt=9) Hilona with Illan
+(pos=2,elt=6) Ines with Sergio
+(pos=3,elt=2) Jessica with Tony
+(pos=4,elt=4) Anastassia with Max
+(pos=5,elt=1) Marilou with Selim
+(pos=6,elt=0) Mia with Nicolas
+(pos=7,elt=5) Noee with Jonathan
+(pos=8,elt=7) Stella with Lorenzo
+(pos=9,elt=3) Celia with Tom
+(pos=10) Melanie stays alone
+We have 1 matches
+Number of possible arrangements : 12014640 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	9.9%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.7% 	9.9% 	9.9%  	9.9% 	10.0%
+elt=1	Selim   	9.9%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.9% 	9.9%  	9.9% 	10.0%
+elt=2	Tony    	9.9%  	9.9%  	9.9% 	9.7%   	9.9%      	11.1%  	9.9% 	9.9% 	9.9%  	9.9% 	10.0%
+elt=3	Tom     	9.9%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.9% 	9.9%  	9.7% 	10.0%
+elt=4	Max     	9.9%  	9.9%  	9.9% 	9.9%   	9.7%      	11.1%  	9.9% 	9.9% 	9.9%  	9.9% 	10.0%
+elt=5	Jonathan	9.9%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.7% 	9.9%  	9.9% 	10.0%
+elt=6	Sergio  	11.1% 	11.1% 	11.1%	11.1%  	11.1%     	0%     	11.1%	11.1%	11.1% 	11.1%	10.0%
+elt=7	Lorenzo 	9.9%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.9% 	9.7%  	9.9% 	10.0%
+elt=8	Jeremy  	9.7%  	9.9%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.9% 	9.9%  	9.9% 	10.0%
+elt=9	Illan   	9.9%  	9.7%  	9.9% 	9.9%   	9.9%      	11.1%  	9.9% 	9.9% 	9.9%  	9.9% 	10.0%
+
+Week  2
+
+Max is in couple with Anastassia
+Number of possible arrangements : 1168090 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	12.2% 	12.2% 	12.5%	12.2%  	0%        	14.3%  	0%   	12.2%	12.2% 	12.2%	10.0%
+elt=1	Selim   	12.5% 	12.5% 	12.7%	12.5%  	0%        	0%     	12.5%	12.5%	12.5% 	12.5%	10.0%
+elt=2	Tony    	12.2% 	12.2% 	12.5%	0%     	0%        	14.3%  	12.2%	12.2%	12.2% 	12.2%	10.0%
+elt=3	Tom     	12.2% 	12.2% 	12.5%	12.2%  	0%        	14.3%  	12.2%	12.2%	12.2% 	0%   	10.0%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	10.0%
+elt=5	Jonathan	12.2% 	12.2% 	12.5%	12.2%  	0%        	14.3%  	12.2%	0%   	12.2% 	12.2%	10.0%
+elt=6	Sergio  	14.3% 	14.3% 	0%   	14.3%  	0%        	0%     	14.3%	14.3%	14.3% 	14.3%	10.0%
+elt=7	Lorenzo 	12.2% 	12.2% 	12.5%	12.2%  	0%        	14.3%  	12.2%	12.2%	0%    	12.2%	10.0%
+elt=8	Jeremy  	0%    	12.2% 	12.5%	12.2%  	0%        	14.3%  	12.2%	12.2%	12.2% 	12.2%	10.0%
+elt=9	Illan   	12.2% 	0%    	12.5%	12.2%  	0%        	14.3%  	12.2%	12.2%	12.2% 	12.2%	10.0%
+
+Max is not in couple with Melanie
+Number of possible arrangements : 1051281 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	12.2% 	12.2% 	12.5%	12.2%  	0%        	14.3%  	0%   	12.2%	12.2% 	12.2%	11.1%
+elt=1	Selim   	12.5% 	12.5% 	12.7%	12.5%  	0%        	0%     	12.5%	12.5%	12.5% 	12.5%	11.1%
+elt=2	Tony    	12.2% 	12.2% 	12.5%	0%     	0%        	14.3%  	12.2%	12.2%	12.2% 	12.2%	11.1%
+elt=3	Tom     	12.2% 	12.2% 	12.5%	12.2%  	0%        	14.3%  	12.2%	12.2%	12.2% 	0%   	11.1%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	12.2% 	12.2% 	12.5%	12.2%  	0%        	14.3%  	12.2%	0%   	12.2% 	12.2%	11.1%
+elt=6	Sergio  	14.3% 	14.3% 	0%   	14.3%  	0%        	0%     	14.3%	14.3%	14.3% 	14.3%	11.1%
+elt=7	Lorenzo 	12.2% 	12.2% 	12.5%	12.2%  	0%        	14.3%  	12.2%	12.2%	0%    	12.2%	11.1%
+elt=8	Jeremy  	0%    	12.2% 	12.5%	12.2%  	0%        	14.3%  	12.2%	12.2%	12.2% 	12.2%	11.1%
+elt=9	Illan   	12.2% 	0%    	12.5%	12.2%  	0%        	14.3%  	12.2%	12.2%	12.2% 	12.2%	11.1%
+
+A new ceremony :
+(pos=0,elt=1) Daisie with Selim
+(pos=1,elt=9) Hilona with Illan
+(pos=2) Ines stays alone
+(pos=3,elt=7) Jessica with Lorenzo
+(pos=4,elt=4) Anastassia with Max
+(pos=5,elt=3) Marilou with Tom
+(pos=6,elt=6) Mia with Sergio
+(pos=7,elt=0) Noee with Nicolas
+(pos=8,elt=8) Stella with Jeremy
+(pos=9,elt=2) Celia with Tony
+(pos=10,elt=5) Melanie with Jonathan
+We have 3 matches
+Number of possible arrangements : 199788 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	10.0% 	12.1% 	12.2%	10.1%  	0%        	11.2%  	0%   	24.2%	10.1% 	10.0%	9.8%
+elt=1	Selim   	24.7% 	12.2% 	12.2%	10.2%  	0%        	0%     	9.8% 	10.4%	10.2% 	10.2%	9.8%
+elt=2	Tony    	10.1% 	12.1% 	12.1%	0%     	0%        	11.2%  	9.7% 	10.4%	10.2% 	24.2%	9.8%
+elt=3	Tom     	9.7%  	11.7% 	11.8%	9.7%   	0%        	28.3%  	9.3% 	9.9% 	9.7%  	0%   	9.8%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	11.9% 	13.6% 	13.7%	12.0%  	0%        	13.4%  	11.6%	0%   	12.0% 	11.9%	21.7%
+elt=6	Sergio  	11.5% 	14.0% 	0%   	11.5%  	0%        	0%     	28.3%	11.9%	11.5% 	11.5%	9.8%
+elt=7	Lorenzo 	10.1% 	12.1% 	12.1%	24.3%  	0%        	11.1%  	9.7% 	10.4%	0%    	10.1%	9.8%
+elt=8	Jeremy  	0%    	12.1% 	12.1%	10.2%  	0%        	11.2%  	9.7% 	10.4%	24.2% 	10.1%	9.8%
+elt=9	Illan   	12.1% 	0%    	13.8%	12.1%  	0%        	13.6%  	11.8%	12.3%	12.1% 	12.1%	9.8%
+
+Week  3
+
+Lorenzo is not in couple with Jessica
+Number of possible arrangements : 151334 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	8.7%  	11.5% 	11.4%	13.4%  	0%        	9.4%   	0%   	27.6%	9.3%  	8.7% 	9.4%
+elt=1	Selim   	27.9% 	11.5% 	11.4%	13.4%  	0%        	0%     	8.4% 	9.1% 	9.4%  	8.8% 	9.4%
+elt=2	Tony    	9.3%  	12.0% 	11.9%	0%     	0%        	10.1%  	8.9% 	9.8% 	9.9%  	28.1%	9.4%
+elt=3	Tom     	8.3%  	11.0% 	10.9%	12.8%  	0%        	31.6%  	7.9% 	8.7% 	8.9%  	0%   	9.4%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	11.2% 	13.5% 	13.5%	15.8%  	0%        	12.3%  	10.8%	0%   	11.8% 	11.2%	24.9%
+elt=6	Sergio  	9.8%  	13.0% 	0%   	15.1%  	0%        	0%     	31.8%	10.2%	10.4% 	9.7% 	9.4%
+elt=7	Lorenzo 	13.4% 	16.0% 	16.0%	0%     	0%        	14.7%  	12.8%	13.7%	0%    	13.4%	9.4%
+elt=8	Jeremy  	0%    	11.5% 	11.3%	13.5%  	0%        	9.4%   	8.3% 	9.1% 	28.2% 	8.7% 	9.4%
+elt=9	Illan   	11.4% 	0%    	13.7%	16.0%  	0%        	12.6%  	11.1%	11.8%	12.1% 	11.4%	9.4%
+
+A new ceremony :
+(pos=0,elt=0) Daisie with Nicolas
+(pos=1,elt=6) Hilona with Sergio
+(pos=2,elt=5) Ines with Jonathan
+(pos=3) Jessica stays alone
+(pos=4,elt=4) Anastassia with Max
+(pos=5,elt=3) Marilou with Tom
+(pos=6,elt=1) Mia with Selim
+(pos=7,elt=9) Noee with Illan
+(pos=8,elt=8) Stella with Jeremy
+(pos=9,elt=7) Celia with Lorenzo
+(pos=10,elt=2) Melanie with Tony
+We have 3 matches
+Number of possible arrangements : 37905 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	12.1% 	12.0% 	11.8%	14.8%  	0%        	8.7%   	0%   	22.2%	8.7%  	9.6% 	9.4%
+elt=1	Selim   	22.7% 	11.6% 	11.2%	14.3%  	0%        	0%     	11.8%	10.4%	8.2%  	9.8% 	9.4%
+elt=2	Tony    	10.8% 	12.7% 	12.6%	0%     	0%        	9.5%   	10.8%	10.8%	9.5%  	23.4%	14.1%
+elt=3	Tom     	6.9%  	8.5%  	8.5% 	11.2%  	0%        	45.9%  	7.3% 	7.0% 	4.8%  	0%   	9.4%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	11.1% 	12.2% 	19.7%	15.8%  	0%        	9.5%   	11.5%	0%   	9.7%  	10.4%	20.2%
+elt=6	Sergio  	11.0% 	19.1% 	0%   	15.5%  	0%        	0%     	24.9%	11.4%	8.4%  	9.8% 	9.4%
+elt=7	Lorenzo 	13.7% 	14.4% 	14.4%	0%     	0%        	11.2%  	13.9%	13.1%	0%    	19.3%	9.4%
+elt=8	Jeremy  	0%    	9.5%  	9.2% 	12.4%  	0%        	5.2%   	8.1% 	7.9% 	40.8% 	7.0% 	9.4%
+elt=9	Illan   	11.7% 	0%    	12.5%	16.0%  	0%        	10.1%  	11.9%	17.3%	10.0% 	10.7%	9.4%
+
+Week  4
+
+Jeremy is in couple with Stella
+Number of possible arrangements : 15452 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	9.0%  	14.4% 	14.7%	16.3%  	0%        	15.6%  	0%   	16.4%	0%    	13.5%	10.8%
+elt=1	Selim   	15.3% 	14.2% 	14.3%	16.4%  	0%        	0%     	10.7%	14.4%	0%    	14.6%	10.8%
+elt=2	Tony    	12.0% 	14.0% 	14.3%	0%     	0%        	16.6%  	13.1%	13.4%	0%    	16.6%	10.5%
+elt=3	Tom     	11.8% 	14.1% 	14.7%	16.7%  	0%        	16.9%  	12.9%	13.0%	0%    	0%   	10.8%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	12.4% 	13.9% 	12.9%	16.2%  	0%        	16.5%  	14.0%	0%   	0%    	14.1%	14.2%
+elt=6	Sergio  	14.2% 	15.2% 	0%   	18.6%  	0%        	0%     	20.6%	16.6%	0%    	14.8%	10.8%
+elt=7	Lorenzo 	12.7% 	14.1% 	14.7%	0%     	0%        	17.6%  	14.5%	13.9%	0%    	12.6%	10.8%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	10.8%
+elt=9	Illan   	12.6% 	0%    	14.4%	15.9%  	0%        	16.8%  	14.2%	12.2%	0%    	13.9%	10.8%
+
+Jeremy is not in couple with Melanie
+Number of possible arrangements : 13790 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	9.1%  	14.4% 	14.7%	16.2%  	0%        	15.8%  	0%   	16.2%	0%    	13.6%	12.1%
+elt=1	Selim   	15.1% 	14.3% 	14.4%	16.4%  	0%        	0%     	10.8%	14.5%	0%    	14.6%	12.1%
+elt=2	Tony    	12.0% 	14.0% 	14.4%	0%     	0%        	16.8%  	13.1%	13.5%	0%    	16.2%	11.7%
+elt=3	Tom     	11.9% 	14.2% 	14.7%	16.7%  	0%        	16.2%  	13.1%	13.2%	0%    	0%   	12.1%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	12.4% 	14.0% 	12.7%	16.1%  	0%        	16.7%  	14.0%	0%   	0%    	14.1%	16.0%
+elt=6	Sergio  	14.2% 	15.0% 	0%   	18.7%  	0%        	0%     	20.4%	16.7%	0%    	15.0%	12.1%
+elt=7	Lorenzo 	12.7% 	14.1% 	14.7%	0%     	0%        	17.7%  	14.5%	14.0%	0%    	12.4%	12.1%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	12.6% 	0%    	14.4%	15.9%  	0%        	16.9%  	14.2%	12.1%	0%    	14.0%	12.1%
+
+A new ceremony :
+(pos=0,elt=2) Daisie with Tony
+(pos=1,elt=6) Hilona with Sergio
+(pos=2,elt=3) Ines with Tom
+(pos=3,elt=0) Jessica with Nicolas
+(pos=4,elt=4) Anastassia with Max
+(pos=5,elt=5) Marilou with Jonathan
+(pos=6,elt=1) Mia with Selim
+(pos=7,elt=9) Noee with Illan
+(pos=8,elt=8) Stella with Jeremy
+(pos=9,elt=7) Celia with Lorenzo
+(pos=10) Melanie stays alone
+We have 3 matches
+Number of possible arrangements : 5594 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	8.7%  	10.8% 	17.9%	15.2%  	0%        	20.7%  	0%   	16.6%	0%    	10.2%	12.2%
+elt=1	Selim   	15.6% 	13.9% 	15.6%	14.3%  	0%        	0%     	12.8%	13.8%	0%    	14.1%	12.2%
+elt=2	Tony    	10.9% 	12.5% 	17.4%	0%     	0%        	19.9%  	10.2%	11.6%	0%    	17.7%	10.2%
+elt=3	Tom     	15.0% 	15.2% 	7.0% 	20.0%  	0%        	13.9%  	14.7%	14.1%	0%    	0%   	12.2%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	15.6% 	15.7% 	8.7% 	19.9%  	0%        	8.5%   	16.5%	0%   	0%    	15.1%	16.8%
+elt=6	Sergio  	13.2% 	18.1% 	0%   	17.2%  	0%        	0%     	19.4%	16.7%	0%    	15.3%	12.2%
+elt=7	Lorenzo 	10.5% 	13.8% 	17.0%	0%     	0%        	18.6%  	12.9%	13.5%	0%    	13.8%	12.2%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	10.6% 	0%    	16.4%	13.6%  	0%        	18.4%  	13.6%	13.7%	0%    	13.8%	12.2%
+
+Week  5
+
+Selim is not in couple with Mia
+Number of possible arrangements : 4880 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	10.0% 	10.5% 	17.3%	17.4%  	0%        	20.4%  	0%   	13.9%	0%    	10.6%	12.2%
+elt=1	Selim   	17.8% 	15.9% 	17.9%	16.4%  	0%        	0%     	0%   	15.8%	0%    	16.1%	12.2%
+elt=2	Tony    	12.4% 	12.4% 	16.6%	0%     	0%        	19.5%  	11.7%	12.2%	0%    	15.1%	11.7%
+elt=3	Tom     	13.8% 	13.3% 	8.0% 	18.8%  	0%        	16.0%  	16.9%	13.2%	0%    	0%   	12.2%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	14.5% 	13.9% 	9.9% 	18.6%  	0%        	9.8%   	18.9%	0%   	0%    	14.4%	15.0%
+elt=6	Sergio  	11.7% 	20.8% 	0%   	15.6%  	0%        	0%     	22.3%	15.6%	0%    	14.0%	12.2%
+elt=7	Lorenzo 	9.8%  	13.1% 	15.6%	0%     	0%        	17.4%  	14.7%	13.5%	0%    	15.9%	12.2%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	9.9%  	0%    	14.7%	13.2%  	0%        	17.0%  	15.6%	15.7%	0%    	13.9%	12.2%
+
+A new ceremony :
+(pos=0,elt=0) Daisie with Nicolas
+(pos=1,elt=3) Hilona with Tom
+(pos=2,elt=2) Ines with Tony
+(pos=3,elt=1) Jessica with Selim
+(pos=4,elt=4) Anastassia with Max
+(pos=5,elt=9) Marilou with Illan
+(pos=6,elt=6) Mia with Sergio
+(pos=7,elt=5) Noee with Jonathan
+(pos=8,elt=8) Stella with Jeremy
+(pos=9,elt=7) Celia with Lorenzo
+(pos=10) Melanie stays alone
+We have 5 matches
+Number of possible arrangements : 424 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	22.2% 	11.8% 	17.2%	4.2%   	0%        	21.5%  	0%   	15.1%	0%    	8.0% 	13.4%
+elt=1	Selim   	10.4% 	13.2% 	9.0% 	43.4%  	0%        	0%     	0%   	13.9%	0%    	10.1%	13.4%
+elt=2	Tony    	6.4%  	8.5%  	41.0%	0%     	0%        	11.8%  	6.4% 	20.3%	0%    	5.7% 	8.0%
+elt=3	Tom     	16.3% 	38.0% 	10.8%	11.6%  	0%        	0%     	7.3% 	16.0%	0%    	0%   	13.4%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	18.9% 	14.2% 	5.9% 	21.2%  	0%        	14.6%  	15.1%	0%   	0%    	10.1%	11.3%
+elt=6	Sergio  	8.7%  	3.8%  	0%   	8.7%   	0%        	0%     	57.5%	16.3%	0%    	5.0% 	13.4%
+elt=7	Lorenzo 	8.5%  	10.6% 	7.5% 	0%     	0%        	5.0%   	8.7% 	9.0% 	0%    	50.7%	13.4%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	8.7%  	0%    	8.5% 	10.8%  	0%        	47.2%  	5.0% 	9.4% 	0%    	10.4%	13.4%
+
+Week  6
+
+Tom is not in couple with Hilona
+Number of possible arrangements : 263 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	25.9% 	19.0% 	14.1%	2.3%   	0%        	17.1%  	0%   	13.7%	0%    	8.0% 	14.1%
+elt=1	Selim   	6.8%  	21.3% 	4.6% 	46.0%  	0%        	0%     	0%   	13.3%	0%    	8.0% 	14.1%
+elt=2	Tony    	3.4%  	13.7% 	51.7%	0%     	0%        	6.8%   	1.5% 	18.3%	0%    	4.6% 	6.1%
+elt=3	Tom     	26.2% 	0%    	17.5%	18.6%  	0%        	0%     	11.8%	25.9%	0%    	0%   	14.1%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	18.6% 	22.8% 	2.3% 	18.6%  	0%        	11.0%  	14.4%	0%   	0%    	12.2%	9.5%
+elt=6	Sergio  	6.8%  	6.1%  	0%   	7.6%   	0%        	0%     	65.4%	12.2%	0%    	1.9% 	14.1%
+elt=7	Lorenzo 	4.6%  	17.1% 	3.0% 	0%     	0%        	6.8%   	5.7% 	9.9% 	0%    	52.9%	14.1%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	7.6%  	0%    	6.8% 	6.8%   	0%        	58.2%  	1.1% 	6.8% 	0%    	12.5%	14.1%
+
+Lorenzo is in couple with Noee
+Number of possible arrangements : 26 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	76.9% 	3.8%  	0%   	7.7%   	0%        	0%     	0%   	0%   	0%    	11.5%	11.5%
+elt=1	Selim   	0%    	26.9% 	0%   	46.2%  	0%        	0%     	0%   	0%   	0%    	26.9%	11.5%
+elt=2	Tony    	0%    	30.8% 	42.3%	0%     	0%        	23.1%  	3.8% 	0%   	0%    	0%   	15.4%
+elt=3	Tom     	15.4% 	0%    	57.7%	23.1%  	0%        	0%     	3.8% 	0%   	0%    	0%   	11.5%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	7.7%  	30.8% 	0%   	23.1%  	0%        	26.9%  	7.7% 	0%   	0%    	3.8% 	15.4%
+elt=6	Sergio  	0%    	7.7%  	0%   	0%     	0%        	0%     	84.6%	0%   	0%    	7.7% 	11.5%
+elt=7	Lorenzo 	0%    	0%    	0%   	0%     	0%        	0%     	0%   	100% 	0%    	0%   	11.5%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	0%    	0%    	0%   	0%     	0%        	50.0%  	0%   	0%   	0%    	50.0%	11.5%
+
+A new ceremony :
+(pos=0,elt=0) Daisie with Nicolas
+(pos=1,elt=2) Hilona with Tony
+(pos=2,elt=3) Ines with Tom
+(pos=3) Jessica stays alone
+(pos=4,elt=4) Anastassia with Max
+(pos=5,elt=5) Marilou with Jonathan
+(pos=6,elt=1) Mia with Selim
+(pos=7,elt=9) Noee with Illan
+(pos=8,elt=8) Stella with Jeremy
+(pos=9,elt=7) Celia with Lorenzo
+(pos=10,elt=6) Melanie with Sergio
+We have 4 matches
+Number of possible arrangements : 12 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	91.7% 	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	8.3% 	16.7%
+elt=1	Selim   	0%    	41.7% 	0%   	58.3%  	0%        	0%     	0%   	0%   	0%    	0%   	16.7%
+elt=2	Tony    	0%    	8.3%  	41.7%	0%     	0%        	41.7%  	8.3% 	0%   	0%    	0%   	8.3%
+elt=3	Tom     	0%    	0%    	58.3%	41.7%  	0%        	0%     	0%   	0%   	0%    	0%   	16.7%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	8.3%  	50.0% 	0%   	0%     	0%        	41.7%  	0%   	0%   	0%    	0%   	8.3%
+elt=6	Sergio  	0%    	0%    	0%   	0%     	0%        	0%     	91.7%	0%   	0%    	8.3% 	0%
+elt=7	Lorenzo 	0%    	0%    	0%   	0%     	0%        	0%     	0%   	100% 	0%    	0%   	16.7%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	0%    	0%    	0%   	0%     	0%        	16.7%  	0%   	0%   	0%    	83.3%	16.7%
+
+Week  7
+
+Lorenzo is not in couple with Melanie
+Number of possible arrangements : 10 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	90.0% 	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	10.0%	20.0%
+elt=1	Selim   	0%    	40.0% 	0%   	60.0%  	0%        	0%     	0%   	0%   	0%    	0%   	20.0%
+elt=2	Tony    	0%    	10.0% 	40.0%	0%     	0%        	40.0%  	10.0%	0%   	0%    	0%   	10.0%
+elt=3	Tom     	0%    	0%    	60.0%	40.0%  	0%        	0%     	0%   	0%   	0%    	0%   	20.0%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	10.0% 	50.0% 	0%   	0%     	0%        	40.0%  	0%   	0%   	0%    	0%   	10.0%
+elt=6	Sergio  	0%    	0%    	0%   	0%     	0%        	0%     	90.0%	0%   	0%    	10.0%	0%
+elt=7	Lorenzo 	0%    	0%    	0%   	0%     	0%        	0%     	0%   	100% 	0%    	0%   	0%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	0%    	0%    	0%   	0%     	0%        	20.0%  	0%   	0%   	0%    	80.0%	20.0%
+
+A new ceremony :
+(pos=0,elt=1) Daisie with Selim
+(pos=1,elt=2) Hilona with Tony
+(pos=2,elt=3) Ines with Tom
+(pos=3,elt=0) Jessica with Nicolas
+(pos=4,elt=4) Anastassia with Max
+(pos=5,elt=5) Marilou with Jonathan
+(pos=6,elt=6) Mia with Sergio
+(pos=7,elt=7) Noee with Lorenzo
+(pos=8,elt=8) Stella with Jeremy
+(pos=9,elt=9) Celia with Illan
+(pos=10) Melanie stays alone
+We have 6 matches
+Number of possible arrangements : 9 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	88.9% 	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	11.1%	22.2%
+elt=1	Selim   	0%    	44.4% 	0%   	55.6%  	0%        	0%     	0%   	0%   	0%    	0%   	22.2%
+elt=2	Tony    	0%    	11.1% 	44.4%	0%     	0%        	44.4%  	0%   	0%   	0%    	0%   	11.1%
+elt=3	Tom     	0%    	0%    	55.6%	44.4%  	0%        	0%     	0%   	0%   	0%    	0%   	22.2%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	11.1% 	44.4% 	0%   	0%     	0%        	44.4%  	0%   	0%   	0%    	0%   	0%
+elt=6	Sergio  	0%    	0%    	0%   	0%     	0%        	0%     	100% 	0%   	0%    	0%   	0%
+elt=7	Lorenzo 	0%    	0%    	0%   	0%     	0%        	0%     	0%   	100% 	0%    	0%   	0%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	0%    	0%    	0%   	0%     	0%        	11.1%  	0%   	0%   	0%    	88.9%	22.2%
+
+Week  8
+
+Nicolas is not in couple with Jessica
+Number of possible arrangements : 9 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	88.9% 	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	11.1%	22.2%
+elt=1	Selim   	0%    	44.4% 	0%   	55.6%  	0%        	0%     	0%   	0%   	0%    	0%   	22.2%
+elt=2	Tony    	0%    	11.1% 	44.4%	0%     	0%        	44.4%  	0%   	0%   	0%    	0%   	11.1%
+elt=3	Tom     	0%    	0%    	55.6%	44.4%  	0%        	0%     	0%   	0%   	0%    	0%   	22.2%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	11.1% 	44.4% 	0%   	0%     	0%        	44.4%  	0%   	0%   	0%    	0%   	0%
+elt=6	Sergio  	0%    	0%    	0%   	0%     	0%        	0%     	100% 	0%   	0%    	0%   	0%
+elt=7	Lorenzo 	0%    	0%    	0%   	0%     	0%        	0%     	0%   	100% 	0%    	0%   	0%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	0%    	0%    	0%   	0%     	0%        	11.1%  	0%   	0%   	0%    	88.9%	22.2%
+
+A new ceremony :
+(pos=0,elt=0) Daisie with Nicolas
+(pos=1,elt=9) Hilona with Illan
+(pos=2,elt=1) Ines with Selim
+(pos=3,elt=3) Jessica with Tom
+(pos=4,elt=4) Anastassia with Max
+(pos=5,elt=2) Marilou with Tony
+(pos=6,elt=6) Mia with Sergio
+(pos=7,elt=7) Noee with Lorenzo
+(pos=8,elt=8) Stella with Jeremy
+(pos=9) Celia stays alone
+(pos=10,elt=5) Melanie with Jonathan
+We have 6 matches
+Number of possible arrangements : 8 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	100%  	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	0%   	25.0%
+elt=1	Selim   	0%    	50.0% 	0%   	50.0%  	0%        	0%     	0%   	0%   	0%    	0%   	25.0%
+elt=2	Tony    	0%    	0%    	50.0%	0%     	0%        	50.0%  	0%   	0%   	0%    	0%   	0%
+elt=3	Tom     	0%    	0%    	50.0%	50.0%  	0%        	0%     	0%   	0%   	0%    	0%   	25.0%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	0%    	50.0% 	0%   	0%     	0%        	50.0%  	0%   	0%   	0%    	0%   	0%
+elt=6	Sergio  	0%    	0%    	0%   	0%     	0%        	0%     	100% 	0%   	0%    	0%   	0%
+elt=7	Lorenzo 	0%    	0%    	0%   	0%     	0%        	0%     	0%   	100% 	0%    	0%   	0%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	100% 	25.0%
+
+Week  9
+
+Tony is not in couple with Melanie
+Number of possible arrangements : 8 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	100%  	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	0%   	25.0%
+elt=1	Selim   	0%    	50.0% 	0%   	50.0%  	0%        	0%     	0%   	0%   	0%    	0%   	25.0%
+elt=2	Tony    	0%    	0%    	50.0%	0%     	0%        	50.0%  	0%   	0%   	0%    	0%   	0%
+elt=3	Tom     	0%    	0%    	50.0%	50.0%  	0%        	0%     	0%   	0%   	0%    	0%   	25.0%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	0%    	50.0% 	0%   	0%     	0%        	50.0%  	0%   	0%   	0%    	0%   	0%
+elt=6	Sergio  	0%    	0%    	0%   	0%     	0%        	0%     	100% 	0%   	0%    	0%   	0%
+elt=7	Lorenzo 	0%    	0%    	0%   	0%     	0%        	0%     	0%   	100% 	0%    	0%   	0%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	100% 	25.0%
+
+A new ceremony :
+(pos=0,elt=0) Daisie with Nicolas
+(pos=1) Hilona stays alone
+(pos=2,elt=3) Ines with Tom
+(pos=3,elt=2) Jessica with Tony
+(pos=4,elt=4) Anastassia with Max
+(pos=5,elt=5) Marilou with Jonathan
+(pos=6,elt=6) Mia with Sergio
+(pos=7,elt=7) Noee with Lorenzo
+(pos=8,elt=8) Stella with Jeremy
+(pos=9,elt=9) Celia with Illan
+(pos=10,elt=1) Melanie with Selim
+We have 7 matches
+Number of possible arrangements : 6 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	100%  	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	0%   	33.3%
+elt=1	Selim   	0%    	50.0% 	0%   	50.0%  	0%        	0%     	0%   	0%   	0%    	0%   	0%
+elt=2	Tony    	0%    	0%    	50.0%	0%     	0%        	50.0%  	0%   	0%   	0%    	0%   	0%
+elt=3	Tom     	0%    	0%    	50.0%	50.0%  	0%        	0%     	0%   	0%   	0%    	0%   	33.3%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	0%    	50.0% 	0%   	0%     	0%        	50.0%  	0%   	0%   	0%    	0%   	0%
+elt=6	Sergio  	0%    	0%    	0%   	0%     	0%        	0%     	100% 	0%   	0%    	0%   	0%
+elt=7	Lorenzo 	0%    	0%    	0%   	0%     	0%        	0%     	0%   	100% 	0%    	0%   	0%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	100% 	33.3%
+
+Week 10
+
+Sergio is in couple with Mia
+Number of possible arrangements : 6 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	100%  	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	0%   	33.3%
+elt=1	Selim   	0%    	50.0% 	0%   	50.0%  	0%        	0%     	0%   	0%   	0%    	0%   	0%
+elt=2	Tony    	0%    	0%    	50.0%	0%     	0%        	50.0%  	0%   	0%   	0%    	0%   	0%
+elt=3	Tom     	0%    	0%    	50.0%	50.0%  	0%        	0%     	0%   	0%   	0%    	0%   	33.3%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	0%    	50.0% 	0%   	0%     	0%        	50.0%  	0%   	0%   	0%    	0%   	0%
+elt=6	Sergio  	0%    	0%    	0%   	0%     	0%        	0%     	100% 	0%   	0%    	0%   	0%
+elt=7	Lorenzo 	0%    	0%    	0%   	0%     	0%        	0%     	0%   	100% 	0%    	0%   	0%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	100% 	33.3%
+
+Sergio is not in couple with Melanie
+Number of possible arrangements : 6 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	100%  	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	0%   	33.3%
+elt=1	Selim   	0%    	50.0% 	0%   	50.0%  	0%        	0%     	0%   	0%   	0%    	0%   	0%
+elt=2	Tony    	0%    	0%    	50.0%	0%     	0%        	50.0%  	0%   	0%   	0%    	0%   	0%
+elt=3	Tom     	0%    	0%    	50.0%	50.0%  	0%        	0%     	0%   	0%   	0%    	0%   	33.3%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	0%    	50.0% 	0%   	0%     	0%        	50.0%  	0%   	0%   	0%    	0%   	0%
+elt=6	Sergio  	0%    	0%    	0%   	0%     	0%        	0%     	100% 	0%   	0%    	0%   	0%
+elt=7	Lorenzo 	0%    	0%    	0%   	0%     	0%        	0%     	0%   	100% 	0%    	0%   	0%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	100% 	33.3%
+
+A new ceremony :
+(pos=0,elt=0) Daisie with Nicolas
+(pos=1,elt=1) Hilona with Selim
+(pos=2,elt=2) Ines with Tony
+(pos=3,elt=3) Jessica with Tom
+(pos=4,elt=4) Anastassia with Max
+(pos=5,elt=5) Marilou with Jonathan
+(pos=6,elt=6) Mia with Sergio
+(pos=7,elt=7) Noee with Lorenzo
+(pos=8,elt=8) Stella with Jeremy
+(pos=9,elt=9) Celia with Illan
+(pos=10,elt=9) Melanie with Illan
+We have 11 matches
+Number of possible arrangements : 1 / 199584000
+.    	.       	pos=0 	pos=1 	pos=2	pos=3  	pos=4     	pos=5  	pos=6	pos=7	pos=8 	pos=9	pos=10
+.    	.       	Daisie	Hilona	Ines 	Jessica	Anastassia	Marilou	Mia  	Noee 	Stella	Celia	Melanie
+elt=0	Nicolas 	100%  	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	0%   	0%
+elt=1	Selim   	0%    	100%  	0%   	0%     	0%        	0%     	0%   	0%   	0%    	0%   	0%
+elt=2	Tony    	0%    	0%    	100% 	0%     	0%        	0%     	0%   	0%   	0%    	0%   	0%
+elt=3	Tom     	0%    	0%    	0%   	100%   	0%        	0%     	0%   	0%   	0%    	0%   	0%
+elt=4	Max     	0%    	0%    	0%   	0%     	100%      	0%     	0%   	0%   	0%    	0%   	0%
+elt=5	Jonathan	0%    	0%    	0%   	0%     	0%        	100%   	0%   	0%   	0%    	0%   	0%
+elt=6	Sergio  	0%    	0%    	0%   	0%     	0%        	0%     	100% 	0%   	0%    	0%   	0%
+elt=7	Lorenzo 	0%    	0%    	0%   	0%     	0%        	0%     	0%   	100% 	0%    	0%   	0%
+elt=8	Jeremy  	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	100%  	0%   	0%
+elt=9	Illan   	0%    	0%    	0%   	0%     	0%        	0%     	0%   	0%   	0%    	100% 	100%
+
